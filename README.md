@@ -248,6 +248,18 @@ on specific criteria such as project, department, or topic.
 -   Extension of the options list through specific interface
     inheritance, with guidance provided in the info tab.
 
+### File Upload Field
+
+-   Editing capabilities for label, upload button and help text.
+
+-   Required validation and customizable failure messages.
+
+-   Configure Allowed File types, maximum file size and maximum size of all files select.
+
+-   Option to determine whether to save data to the database.
+
+-   Option to specify whether the upload is a single file or allows multiple files.    
+
 ### Human Verification (ReCAPTCHA)
 
 -   Editing capabilities for label, help text, and customizable failure
