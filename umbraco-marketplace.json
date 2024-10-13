@@ -1,0 +1,66 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "AddOnPackagesRequiredForUmbracoCloud": [],
+    "AlternateCategory": "Developer Tools",
+    "AuthorDetails": {
+      "Name": "Dymior",
+      "Description": "Dymior is an innovative startup focused on delivering cutting-edge web solutions that enhance user engagement and streamline data collection. Our mission is to empower businesses and developers with intuitive tools designed for efficiency and responsiveness. By prioritizing automation and user experience, Dymior aims to transform the way organizations interact with their audiences and manage online processes.",
+      "Url": "https://github.com/dymior",
+      "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/logo.png"
+    },
+    "Category": "Editor Tools",
+    "Description": "With the Dymior Forms Plugin, web form creation becomes a seamless and efficient process. This versatile plugin empowers users to design and deploy a wide variety of web forms with remarkable speed and intelligence. Whether you're a web developer, marketer, or business owner, Dymior Forms simplifies the task of gathering data and interacting with your audience.",
+    "DiscussionForumUrl": "https://github.com/dymior/Dymior-Forms/discussions",
+    "DocumentationUrl": "https://github.com/dymior/Dymior-Forms",
+    "LicenseTypes": [ "Purchase" ],
+    "IssueTrackerUrl": "https://github.com/dymior/Dymior-Forms/issues",
+    "IsSubPackageOf": "",
+    "PackageType": "Package",
+    "PackagesByAuthor": [],
+    "RelatedPackages": [
+      {
+        "GroupTitle": "",
+        "PackageId": "",
+        "Description": ""
+      }
+    ],
+    "Screenshots": [
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s1.png",
+        "Caption": "Edit Properties Of A Text Field"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s2.png",
+        "Caption": "Design how the fields are placed in desktop, tablet and mobile"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s3.png",
+        "Caption": "Installed sample of a Contact us form (view in desktop)"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s4.png",
+        "Caption": "Installed sample of a CV/Resume wizard form (view in desktop)"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s5.png",
+        "Caption": "Installed sample of a Request a Quote form (view in desktop)"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s6.png",
+        "Caption": "How the Contact us form is displayed on mobile"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s7.png",
+        "Caption": "How the CV/Resume wizard form is displayed on mobile"
+      },
+      {
+        "ImageUrl": "https://github.com/dymior/Dymior-Forms/blob/main/images/s7.png",
+        "Caption": "How the Request a Quote form is displayed on mobile"
+      }
+    ],
+    "Tags": ["Dymior Forms", "Responsive Forms", "Form Builder", "Web Forms", "Form Managment", "Form Submissions"],
+    "Title": "Dymior Forms",
+    "VersionDependencyMode": "SemVer",
+    "VersionSpecificPackageIds": [],
+    "VideoUrl": ""
+  }
