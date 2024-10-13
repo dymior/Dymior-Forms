@@ -1,3 +1,10 @@
+![image](images/logo.png)
+
+![NuGet Downloads](https://img.shields.io/nuget/dt/Dymior.Forms?label=NuGet%20Downloads)
+![GitHub Issues](https://img.shields.io/github/issues/dymior/Dymior-Forms)
+![Umbraco Versions](https://img.shields.io/badge/Umbraco-10%20|%2011%20|%2012%20|%2013%20-blue)
+![Dotnet Versions](https://img.shields.io/badge/.Net-6%20|%207%20|%208%20-green)
+![Databases](https://img.shields.io/badge/Databases-MS%20SQL%20|%20SQL%20Lite%20-orange)
 # Dymior Forms Plugin For Umbraco CMS
 
 With the Dymior Forms Plugin, web form creation becomes a seamless and
