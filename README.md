@@ -330,9 +330,9 @@ dotnet add package Dymior.Forms
 
 dotnet add package Dymior.Forms.Core
 
-### During the installation process, three sample forms are included, each with different styles: Contact Form, CV/Resume Form, and Request a Quote Form.
+During the installation process, three sample forms are included, each with different styles: Contact Form, CV/Resume Form, and Request a Quote Form.
 
-### *Please ensure that the existing Umbraco installation is configured with the SMTP server and that the correct email addresses are entered in the mail action field.*
+*Please ensure that the existing Umbraco installation is configured with the SMTP server and that the correct email addresses are entered in the mail action field.*
 
 ### Frameworks and Umbraco Versions
 
