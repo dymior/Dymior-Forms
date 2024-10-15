@@ -28,6 +28,5 @@
     "Tags": ["Dymior Forms", "Responsive Forms", "Form Builder", "Web Forms", "Form Managment", "Form Submissions"],
     "Title": "Dymior Forms",
     "VersionDependencyMode": "SemVer",
-    "VersionSpecificPackageIds": [],
-    "VideoUrl": null
+    "VersionSpecificPackageIds": []
   }
