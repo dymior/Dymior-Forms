@@ -1,5 +1,3 @@
-![image](images/logo.png)
-
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Dymior.Forms?label=NuGet%20Downloads)
 ![GitHub Issues](https://img.shields.io/github/issues/dymior/Dymior-Forms)
 ![Umbraco Versions](https://img.shields.io/badge/Umbraco-10%20|%2011%20|%2012%20|%2013%20-blue)
