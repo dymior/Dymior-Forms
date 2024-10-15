@@ -24,7 +24,40 @@
         "Description": ""
       }
     ],
-    "Screenshots": [],
+    "Screenshots": [
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s1.png",
+        "Caption": "Edit Properties Of A Text Field"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s2.png",
+        "Caption": "Design how the fields are placed in desktop, tablet and mobile"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s3.png",
+        "Caption": "Installed sample of a Contact us form (view on desktop)"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s4.png",
+        "Caption": "Installed sample of a CV/Resume wizard form (view on desktop)"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s5.png",
+        "Caption": "Installed sample of a Request a Quote form (view on desktop)"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s6.png",
+        "Caption": "How the Contact us form is displayed on mobile"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s7.png",
+        "Caption": "How the CV/Resume wizard form is displayed on mobile"
+      },
+      {
+        "ImageUrl": "https://raw.githubusercontent.com/dymior/Dymior-Forms/main/images/s7.png",
+        "Caption": "How the Request a Quote form is displayed on mobile"
+      }
+    ],
     "Tags": ["Dymior Forms", "Responsive Forms", "Form Builder", "Web Forms", "Form Managment", "Form Submissions"],
     "Title": "Dymior Forms",
     "VersionDependencyMode": "SemVer",
