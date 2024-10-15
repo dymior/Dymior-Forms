@@ -1,7 +1,7 @@
 {
     "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
     "AddOnPackagesRequiredForUmbracoCloud": [],
-    "AlternateCategory": ["Developer Tools","Campaign & Marketing"],
+    "AlternateCategory": "Developer Tools",
     "AuthorDetails": {
       "Name": "Dymior",
       "Description": "Dymior is an innovative startup focused on delivering cutting-edge web solutions that enhance user engagement and streamline data collection. Our mission is to empower businesses and developers with intuitive tools designed for efficiency and responsiveness. By prioritizing automation and user experience, Dymior aims to transform the way organizations interact with their audiences and manage online processes.",
