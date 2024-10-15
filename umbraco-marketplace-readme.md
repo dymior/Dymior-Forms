@@ -1,3 +1,8 @@
+![NuGet Downloads](https://img.shields.io/nuget/dt/Dymior.Forms?label=NuGet%20Downloads)
+![Umbraco Versions](https://img.shields.io/badge/Umbraco-10%20|%2011%20|%2012%20|%2013%20-blue)
+![Dotnet Versions](https://img.shields.io/badge/.Net-6%20|%207%20|%208%20-green)
+![Databases](https://img.shields.io/badge/Databases-MS%20SQL%20|%20SQLite%20-orange)
+
 Dymior Forms is designed to streamline the entire form-building
 experience. Its user-friendly interface and intuitive features make it
 accessible to users of all skill levels. From simple contact forms to
