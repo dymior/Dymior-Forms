@@ -1,12 +1,3 @@
-# Dymior Forms Plugin For Umbraco CMS
-
-With the Dymior Forms Plugin, web form creation becomes a seamless and
-efficient process. This versatile plugin empowers users to design and
-deploy a wide variety of web forms with remarkable speed and
-intelligence. Whether you\'re a web developer, marketer, or business
-owner, Dymior Forms simplifies the task of gathering data and
-interacting with your audience.
-
 Dymior Forms is designed to streamline the entire form-building
 experience. Its user-friendly interface and intuitive features make it
 accessible to users of all skill levels. From simple contact forms to
