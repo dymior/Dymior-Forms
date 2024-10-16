@@ -399,11 +399,3 @@ If you encounter any issues with the Dymior Forms Plugin, please
 feel free to report them on our GitHub page. As a startup,
 we greatly value your feedback and are committed to improving
 the plugin based on user experiences.
-
-### Important Note on Alpha Version
-Thank you for your interest in the Dymior Forms plugin! 
-This version is currently in alpha, meaning it is a pre-release version intended for testing and feedback.
-Please be aware that while we strive for functionality, this version may contain bugs and unstable features. 
-We encourage you to provide feedback and report any issues you encounter to help us improve the plugin.
-For installation, please follow the instructions provided. Your feedback is invaluable to us, and you can share your thoughts or report issues.
-We appreciate your support as we work towards a stable release!
